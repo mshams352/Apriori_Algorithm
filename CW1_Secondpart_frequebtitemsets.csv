@@ -1,0 +1,174 @@
+support,itemsets,length
+0.030933333333333334,frozenset({'3 doors down'}),1
+0.0328,frozenset({'30 seconds to mars'}),1
+0.036866666666666666,frozenset({'[unknown]'}),1
+0.03673333333333333,frozenset({'a perfect circle'}),1
+0.0614,frozenset({'ac/dc'}),1
+0.0338,frozenset({'aerosmith'}),1
+0.0696,frozenset({'air'}),1
+0.06273333333333334,frozenset({'amy winehouse'}),1
+0.03386666666666667,frozenset({'animal collective'}),1
+0.0384,frozenset({'aphex twin'}),1
+0.03546666666666667,frozenset({'apocalyptica'}),1
+0.0476,frozenset({'arcade fire'}),1
+0.07546666666666667,frozenset({'arctic monkeys'}),1
+0.042666666666666665,frozenset({'avril lavigne'}),1
+0.04226666666666667,frozenset({'beastie boys'}),1
+0.057466666666666666,frozenset({'beck'}),1
+0.042466666666666666,frozenset({'beirut'}),1
+0.0492,frozenset({'belle and sebastian'}),1
+0.0308,frozenset({'billy talent'}),1
+0.06386666666666667,frozenset({'björk'}),1
+0.038,frozenset({'black sabbath'}),1
+0.0576,frozenset({'blink-182'}),1
+0.0668,frozenset({'bloc party'}),1
+0.03353333333333333,frozenset({'blur'}),1
+0.041933333333333336,frozenset({'boards of canada'}),1
+0.06933333333333333,frozenset({'bob dylan'}),1
+0.046733333333333335,frozenset({'bob marley'}),1
+0.035,frozenset({'bob marley & the wailers'}),1
+0.0378,frozenset({'bright eyes'}),1
+0.04593333333333333,frozenset({'britney spears'}),1
+0.037866666666666667,frozenset({'cat power'}),1
+0.0324,frozenset({'children of bodom'}),1
+0.15853333333333333,frozenset({'coldplay'}),1
+0.076,frozenset({'daft punk'}),1
+0.033,frozenset({'damien rice'}),1
+0.07366666666666667,frozenset({'david bowie'}),1
+0.08133333333333333,frozenset({'death cab for cutie'}),1
+0.03233333333333333,frozenset({'deftones'}),1
+0.07546666666666667,frozenset({'depeche mode'}),1
+0.04206666666666667,frozenset({'disturbed'}),1
+0.033133333333333334,frozenset({'dream theater'}),1
+0.0408,frozenset({'elliott smith'}),1
+0.036066666666666664,frozenset({'elvis presley'}),1
+0.04473333333333333,frozenset({'eminem'}),1
+0.051666666666666666,frozenset({'evanescence'}),1
+0.051666666666666666,frozenset({'fall out boy'}),1
+0.04873333333333333,frozenset({'feist'}),1
+0.07333333333333333,frozenset({'foo fighters'}),1
+0.03,frozenset({'frank sinatra'}),1
+0.059333333333333335,frozenset({'franz ferdinand'}),1
+0.03233333333333333,frozenset({'goldfrapp'}),1
+0.056466666666666665,frozenset({'gorillaz'}),1
+0.07086666666666666,frozenset({'green day'}),1
+0.049466666666666666,frozenset({'in flames'}),1
+0.0536,frozenset({'incubus'}),1
+0.0498,frozenset({'interpol'}),1
+0.03133333333333333,frozenset({'iron & wine'}),1
+0.05926666666666667,frozenset({'iron maiden'}),1
+0.05633333333333333,frozenset({'jack johnson'}),1
+0.036,frozenset({'jamiroquai'}),1
+0.030333333333333334,frozenset({'jay-z'}),1
+0.0394,frozenset({'jimi hendrix'}),1
+0.031466666666666664,frozenset({'jimmy eat world'}),1
+0.031066666666666666,frozenset({'john mayer'}),1
+0.0602,frozenset({'johnny cash'}),1
+0.0448,frozenset({'joy division'}),1
+0.03406666666666667,frozenset({'justice'}),1
+0.0338,frozenset({'justin timberlake'}),1
+0.031266666666666665,frozenset({'kaiser chiefs'}),1
+0.06406666666666666,frozenset({'kanye west'}),1
+0.0304,frozenset({'katy perry'}),1
+0.03493333333333333,frozenset({'keane'}),1
+0.0606,frozenset({'kings of leon'}),1
+0.04926666666666667,frozenset({'koЯn'}),1
+0.0338,frozenset({'lady gaga'}),1
+0.0792,frozenset({'led zeppelin'}),1
+0.0358,frozenset({'lily allen'}),1
+0.0982,frozenset({'linkin park'}),1
+0.0546,frozenset({'madonna'}),1
+0.0332,frozenset({'manu chao'}),1
+0.04873333333333333,frozenset({'marilyn manson'}),1
+0.03233333333333333,frozenset({'maroon 5'}),1
+0.06413333333333333,frozenset({'massive attack'}),1
+0.0308,frozenset({'megadeth'}),1
+0.11133333333333334,frozenset({'metallica'}),1
+0.04373333333333333,frozenset({'mgmt'}),1
+0.05633333333333333,frozenset({'michael jackson'}),1
+0.0302,frozenset({'miles davis'}),1
+0.06066666666666667,frozenset({'moby'}),1
+0.0518,frozenset({'modest mouse'}),1
+0.034866666666666664,frozenset({'mogwai'}),1
+0.11406666666666666,frozenset({'muse'}),1
+0.042,frozenset({'my chemical romance'}),1
+0.0366,frozenset({'nelly furtado'}),1
+0.03953333333333333,frozenset({'nickelback'}),1
+0.06193333333333333,frozenset({'nightwish'}),1
+0.06646666666666666,frozenset({'nine inch nails'}),1
+0.0982,frozenset({'nirvana'}),1
+0.035,frozenset({'norah jones'}),1
+0.05853333333333333,frozenset({'oasis'}),1
+0.033933333333333336,frozenset({'opeth'}),1
+0.045533333333333335,frozenset({'paramore'}),1
+0.0472,frozenset({'pearl jam'}),1
+0.10493333333333334,frozenset({'pink floyd'}),1
+0.0498,frozenset({'pixies'}),1
+0.07746666666666667,frozenset({'placebo'}),1
+0.0656,frozenset({'portishead'}),1
+0.07773333333333333,frozenset({'queen'}),1
+0.049466666666666666,frozenset({'queens of the stone age'}),1
+0.049133333333333334,frozenset({'r.e.m.'}),1
+0.18026666666666666,frozenset({'radiohead'}),1
+0.05273333333333333,frozenset({'rage against the machine'}),1
+0.07006666666666667,frozenset({'rammstein'}),1
+0.040466666666666665,frozenset({'ramones'}),1
+0.11906666666666667,frozenset({'red hot chili peppers'}),1
+0.03913333333333333,frozenset({'regina spektor'}),1
+0.04306666666666667,frozenset({'rihanna'}),1
+0.03793333333333333,frozenset({'rise against'}),1
+0.04566666666666667,frozenset({'röyksopp'}),1
+0.0694,frozenset({'sigur rós'}),1
+0.0336,frozenset({'slayer'}),1
+0.045066666666666665,frozenset({'slipknot'}),1
+0.0504,frozenset({'snow patrol'}),1
+0.03793333333333333,frozenset({'sonic youth'}),1
+0.04973333333333333,frozenset({'sufjan stevens'}),1
+0.03306666666666667,frozenset({'sum 41'}),1
+0.091,frozenset({'system of a down'}),1
+0.0328,frozenset({'tenacious d'}),1
+0.17786666666666667,frozenset({'the beatles'}),1
+0.0444,frozenset({'the chemical brothers'}),1
+0.0438,frozenset({'the clash'}),1
+0.0302,frozenset({'the cranberries'}),1
+0.07593333333333334,frozenset({'the cure'}),1
+0.0318,frozenset({'the decemberists'}),1
+0.0576,frozenset({'the doors'}),1
+0.0982,frozenset({'the killers'}),1
+0.03326666666666667,frozenset({'the knife'}),1
+0.04833333333333333,frozenset({'the kooks'}),1
+0.059,frozenset({'the offspring'}),1
+0.03266666666666666,frozenset({'the postal service'}),1
+0.0622,frozenset({'the prodigy'}),1
+0.06293333333333333,frozenset({'the rolling stones'}),1
+0.0494,frozenset({'the shins'}),1
+0.061266666666666664,frozenset({'the smashing pumpkins'}),1
+0.052333333333333336,frozenset({'the smiths'}),1
+0.054,frozenset({'the strokes'}),1
+0.030266666666666667,frozenset({'the velvet underground'}),1
+0.0692,frozenset({'the white stripes'}),1
+0.0348,frozenset({'the who'}),1
+0.030066666666666665,frozenset({'thievery corporation'}),1
+0.04446666666666667,frozenset({'tom waits'}),1
+0.0508,frozenset({'tool'}),1
+0.068,frozenset({'u2'}),1
+0.034466666666666666,"frozenset({'bob dylan', 'the beatles'})",2
+0.0306,"frozenset({'coldplay', 'death cab for cutie'})",2
+0.0388,"frozenset({'coldplay', 'muse'})",2
+0.0546,"frozenset({'coldplay', 'radiohead'})",2
+0.0386,"frozenset({'coldplay', 'red hot chili peppers'})",2
+0.044333333333333336,"frozenset({'coldplay', 'the beatles'})",2
+0.04106666666666667,"frozenset({'coldplay', 'the killers'})",2
+0.031733333333333336,"frozenset({'david bowie', 'the beatles'})",2
+0.031466666666666664,"frozenset({'radiohead', 'death cab for cutie'})",2
+0.032,"frozenset({'led zeppelin', 'pink floyd'})",2
+0.033466666666666665,"frozenset({'led zeppelin', 'the beatles'})",2
+0.043,"frozenset({'muse', 'radiohead'})",2
+0.030533333333333332,"frozenset({'nirvana', 'radiohead'})",2
+0.03426666666666667,"frozenset({'pink floyd', 'radiohead'})",2
+0.03966666666666667,"frozenset({'the beatles', 'pink floyd'})",2
+0.0316,"frozenset({'red hot chili peppers', 'radiohead'})",2
+0.0342,"frozenset({'sigur rós', 'radiohead'})",2
+0.0582,"frozenset({'the beatles', 'radiohead'})",2
+0.03386666666666667,"frozenset({'the beatles', 'red hot chili peppers'})",2
+0.030466666666666666,"frozenset({'the beatles', 'the rolling stones'})",2
